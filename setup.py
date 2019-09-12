@@ -3,9 +3,9 @@
 # or saved.  Do not modify them directly here.
 # NB: PACKAGES is deprecated
 NAME = "ZenPacks.jstanley.Requests"
-VERSION = "1.0.0dev"
-AUTHOR = "Your Name Here"
-LICENSE = ""
+VERSION = "1.0.0"
+AUTHOR = "Jay Stanley (github.com/jstanley23)"
+LICENSE = "GPLv2+"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.jstanley']
 PACKAGES = ['ZenPacks', 'ZenPacks.jstanley', 'ZenPacks.jstanley.Requests']
 INSTALL_REQUIRES = ['ZenPacks.zenoss.ZenPackLib']
